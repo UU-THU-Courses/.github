@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This organization is created to manager coursework and projects carried out by me (@usamazf) as a student first at Tsinghua University, China and then at Uppsala University, Sweden. 
+This organization is created to manager coursework and projects carried out by me ([Usama Zafar](https://github.com/usamazf)) as a:
+1. Master's student at Tsinghua University, Beijing, China. 
+2. PhD student at Uppsala University, Uppsala, Sweden. 
 
 <!--
 
